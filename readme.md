@@ -151,6 +151,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid-19 Interactive Dashboard for Bangladesh](https://www.co-ronabd.info/) ([repo](https://github.com/KhanShaheb34/nCov19-InteractiveDashboard-BD)): Interactive Dashboard of Bangladesh for the Covid-19 Pandemic
 - [Telegram bot to show COVID-19 visual graphs](https://t.me/covid19_visual_bot) ([repo](https://github.com/iglaweb/covid19_visual_bot)):  Telegram COVID bot is intended to provide visual statistical information about Novel Coronavirus (2019-nCoV)
 - [Realtime Statistical Updates on state of COVID19 in Uganda](https://as1ndu.github.io/covidug/index.html) ([repo](https://github.com/as1ndu/covidug)):  A simple dashboard with realtime statistical updates on state of COVID19 in Uganda
+- [Evolución COVID-19 en el mundo](http://coronavirus.enlaweb.tv/) ([repo](https://github.com/jjvel59/covidw.git)):  Basic website to view COVID-19 evolution daily around the world. Can compare confirmed, recovered and death cases between countries. Option to graph daily increments.
 
 #### Analysis
 
